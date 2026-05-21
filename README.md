@@ -243,10 +243,6 @@ Verificação dos quatro casos oficiais (`python3 src/main.py --test`):
 A solução (`src/main.py`) foi submetida no UVA Online Judge e obteve o
 veredito **Accepted**:
 
-| Submissão | Problema | Veredito | Linguagem | Tempo | Data |
-|---|---|---|---|---|---|
-| `31141236` | 1235 — Anti Brute Force Lock | **Accepted** | Python 3 | 0,700 s | 2026-05-21 |
-
 <p align="center">
   <img src="evidencias/aceito.jpeg" alt="Veredito Accepted na UVA — submissão 31141236" width="680">
 </p>
