@@ -43,8 +43,7 @@ Prim e Union-Find foram implementados pelo grupo (ver `src/main.py`).
 │   ├── entradas_do_problema.txt    <- entrada de exemplo (exemplo oficial da UVA)
 │   └── saida_esperada.txt          <- saída esperada para a entrada acima
 ├── evidencias/
-│   ├── COMO_OBTER_A_EVIDENCIA.md   <- passo a passo da submissão
-│   └── accepted.png                <- print do Accepted (adicionar após submeter)
+│   └── aceito.jpeg                 <- print do veredito Accepted na UVA
 ├── apresentacao/
 │   ├── apresentacao.pdf            <- slides da apresentação
 │   └── apresentacao.md             <- fonte dos slides
@@ -248,11 +247,12 @@ veredito **Accepted**:
 |---|---|---|---|---|---|
 | `31141236` | 1235 — Anti Brute Force Lock | **Accepted** | Python 3 | 0,700 s | 2026-05-21 |
 
-![Evidência de Accepted na UVA](evidencias/accepted.png)
+<p align="center">
+  <img src="evidencias/aceito.jpeg" alt="Veredito Accepted na UVA — submissão 31141236" width="680">
+</p>
 
-> O print da página de submissões está em `evidencias/accepted.png`. O passo a
-> passo da submissão está em
-> [`evidencias/COMO_OBTER_A_EVIDENCIA.md`](evidencias/COMO_OBTER_A_EVIDENCIA.md).
+O print acima é a página *My Submissions* do UVA Online Judge, salvo em
+[`evidencias/aceito.jpeg`](evidencias/aceito.jpeg).
 
 ## 13. Base de referência `algs4`
 
