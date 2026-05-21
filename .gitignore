@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.tmp
+.claude/
+
+# Arquivos intermediarios da apresentacao (o .pdf e o .md SAO entregaveis e
+# devem ser versionados; apenas fontes intermediarias ficam ignoradas).
+apresentacao/*.html
+apresentacao/*.fodt
+
